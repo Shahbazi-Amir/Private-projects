@@ -7,3 +7,6 @@
 [submodule "LeetCode_problem"]
 	path = LeetCode_problem
 	url = https://github.com/Shahbazi-Amir/LeetCode_problem.git
+[submodule "master_404"]
+	path = master_404
+	url = https://github.com/Shahbazi-Amir/master_404.git
