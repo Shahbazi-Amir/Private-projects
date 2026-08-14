@@ -4,3 +4,6 @@
 [submodule "Therapy"]
 	path = Therapy
 	url = https://github.com/Shahbazi-Amir/Therapy.git
+[submodule "LeetCode_problem"]
+	path = LeetCode_problem
+	url = https://github.com/Shahbazi-Amir/LeetCode_problem.git
