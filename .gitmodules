@@ -10,3 +10,6 @@
 [submodule "master_404"]
 	path = master_404
 	url = https://github.com/Shahbazi-Amir/master_404.git
+[submodule "py_learning"]
+	path = py_learning
+	url = https://github.com/Shahbazi-Amir/py_learning.git
