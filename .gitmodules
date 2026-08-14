@@ -1,3 +1,6 @@
 [submodule "HT"]
 	path = HT
 	url = https://github.com/Shahbazi-Amir/HT.git
+[submodule "Therapy"]
+	path = Therapy
+	url = https://github.com/Shahbazi-Amir/Therapy.git
